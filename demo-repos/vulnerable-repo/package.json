@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "eslint": "8.57.1",
-    "nodemon": "3.1.9"
+    "nodemon": "3.1.14"
   },
   "optionalDependencies": {
     "fsevents": "2.3.3"
